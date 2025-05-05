@@ -1,6 +1,5 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import Footer from './Footer'; 
 import Sikkim from './Location/Sikkim';
 import Ladakh from './Location/Ladakh';
 import KulluManali from './Location/KulluManali';

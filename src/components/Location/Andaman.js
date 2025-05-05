@@ -138,8 +138,8 @@ const Andaman = () => (
         {/* Google Maps Route */}
         <div className="mt-8 text-center">
           <h2 className="text-2xl font-bold text-blue-700 mb-4">🗺️ Google Maps Route (Visualize Your Journey)</h2>
-          <a 
-            href="#"
+          <a
+            href="https://www.google.com/maps/dir/Phuentsholing/Thimphu/Punakha/Phobjikha/Paro/Haa+Valley/Phuentsholing/@27.0982,89.5361,9z/data=!4m38!4m37!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d89.3967!2d26.8601!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d89.6419!2d27.4728!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d89.8766!2d27.5916!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d90.2146!2d27.4986!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d89.4125!2d27.4305!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d89.2806!2d27.3846!1m5!1m1!1s0x39e194b6e2e2e2e2:0x2e2e2e2e2e2e2e2e!2m2!1d89.3967!2d26.8601?entry=ttu"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg transition duration-300"
